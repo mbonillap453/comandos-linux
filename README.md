@@ -1,10 +1,12 @@
 # comandos-linux
 Este es un repositorio de comandos de Linux del curso de Sistemas Operativos
 
-| Comandos                                                                      | Funciones     |
+| Comandos                                                                      | Funciones     
+------------------------------------------------------------------------------------------------------------------------------------------------------
 |sudo reboot                                                                    | reinicia la máquina 
 |history                                                                        | comandos ya digitados 
 |cd                                                                             | cambie de directorio 
+
 |ls                                                                             | listar archivos de una carpeta 
 |chmod                                                                          | cambiar permisos a un archivo 
 |chown                                                                          | cambiar el usuario a ser propietario
@@ -58,4 +60,4 @@ Este es un repositorio de comandos de Linux del curso de Sistemas Operativos
 |cntrl + c                                                                      | detener un proceso 
 |history  grep [command]                                                        | imprimir el historial con ese comando
 |telnet towel.blinkenlights.nl                                                  | ver la cuarta película de starwars
-|lsblk -fm                                                                      | muestra información de todos los dispositivos de bloque (discos duros, SSD, memorias flash, CD-ROM…) que forman parte del hardware.
+|lsblk -fm                                                                      | muestra información de todos los dispositivos de bloque (discos duros, SSD, memorias |flash, CD-ROM…) que forman parte del hardware.
