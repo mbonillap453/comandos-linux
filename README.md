@@ -6,7 +6,6 @@ Este es un repositorio de comandos de Linux del curso de Sistemas Operativos
 |sudo reboot                                                                    | reinicia la máquina 
 |history                                                                        | comandos ya digitados 
 |cd                                                                             | cambie de directorio 
-
 |ls                                                                             | listar archivos de una carpeta 
 |chmod                                                                          | cambiar permisos a un archivo 
 |chown                                                                          | cambiar el usuario a ser propietario
